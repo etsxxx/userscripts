@@ -19,7 +19,7 @@ PR is welcome.
 
 * Created: 2018/07/31
 * Updated: 2018/07/31
-* Enabled URI: https://*.slack.com/messages/*
+* Affected URI: `https://*.slack.com/messages/*`
 * Information
     * Add syntax highlight to code block by using [google-code-prettify](https://github.com/google/code-prettify)
     * Language mode is 'bsh' (You can change it simply)
