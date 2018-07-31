@@ -24,5 +24,8 @@ PR is welcome.
     * Add syntax highlight to code block by using [google-code-prettify](https://github.com/google/code-prettify)
     * Language mode is 'bsh' (You can change it simply)
 
-[Install this userscript](https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js)
+[install][slack-code-syntax-highlight]
+
+
+[slack-code-syntax-highlight]: https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js
 
