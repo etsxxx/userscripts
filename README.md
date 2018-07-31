@@ -27,5 +27,5 @@ PR is welcome.
 [install][slack-code-syntax-highlight]
 
 
-[slack-code-syntax-highlight]: https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js
+[slack-code-syntax-highlight]: https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.user.js
 
