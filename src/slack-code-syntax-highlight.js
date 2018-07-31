@@ -6,8 +6,8 @@
 // @match       https://*.slack.com/messages/*
 // @grant        none
 // @require     https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js
-// @updateURL   https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax.js
-// @downloadURL https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax.js
+// @updateURL   https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js
+// @downloadURL https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js
 // ==/UserScript==
 
 function initPrettyPrint() {

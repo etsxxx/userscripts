@@ -5,9 +5,9 @@ Userscripts for Tampermonkey or Greasemonkey.
 ### Setup your browser
 Make sure you have user scripts enabled in your browser.
 
-	* Chrome - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
-	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
-	* Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+* Chrome - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
+* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
+* Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 ### Read Limitation
 The author tested userscripts with limited browser versions, limited time.
@@ -24,5 +24,5 @@ PR is welcome.
     * Add syntax highlight to code block by using [google-code-prettify](https://github.com/google/code-prettify)
     * Language mode is 'bsh' (You can change it simply)
 
-[Install this userscript](https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax.js)
+[Install this userscript](https://raw.githubusercontent.com/etsxxx/userscripts/master/src/slack-code-syntax-highlight.js)
 
